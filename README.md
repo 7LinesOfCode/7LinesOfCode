@@ -15,3 +15,4 @@ Current goal: Learining See Shark 😎🦈...
 ![7LinesOfCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=7LinesOfCode&show_icons=true&theme=dark)
 <br/>
 <img  alt="GitHub"  style="padding-right:10px;" src="https://www.codewars.com/users/7LinesOfCode/badges/large" />
+   
