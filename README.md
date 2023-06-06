@@ -1,6 +1,6 @@
 ### 7LinesOfCod(.Net Developer) 👋
 
-Current goal: Learining See Shark 😎🦈... 
+Current goal: Learining ASP.NET, WEB API, MVC 
 
 ### 🧰 Languages and Tools
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
