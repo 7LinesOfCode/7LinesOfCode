@@ -1,4 +1,4 @@
-### 7LinesOfCod(.Net Developer in Future) 👋
+### 7LinesOfCod Junior.Net Developer👋
 
 Current goal: Learining ASP.NET, WEB API, MVC 
 
