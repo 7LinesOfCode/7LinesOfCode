@@ -1,7 +1,5 @@
 ### 7LinesOfCod Junior.Net Developer👋
 
-Current goal: Learining ASP.NET, WEB API, MVC 
-
 ### 🧰 Languages and Tools
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="VS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
